@@ -26,3 +26,11 @@ Smoke :
 <https://www.youtube.com/watch?v=HRagD5L-WF8>
 
 This repo for gitattribs and gitignore <https://github.com/MOZGIII/ue5-gitignore>
+
+### Song
+
+Credit this piece by copying the following to your credits section:
+
+"Whimsy Groove" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/

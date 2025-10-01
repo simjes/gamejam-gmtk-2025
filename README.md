@@ -2,10 +2,6 @@
 
 Developed with Unreal Engine 5
 
-Template from [Cobra Code](https://www.patreon.com/collection/111760?view=expanded)
-
-## TODO
-
 ### Mention assets
 
 <https://www.kenney.nl/assets/city-kit-roads>
@@ -33,4 +29,4 @@ Credit this piece by copying the following to your credits section:
 
 "Whimsy Groove" Kevin MacLeod (incompetech.com)
 Licensed under Creative Commons: By Attribution 4.0 License
-http://creativecommons.org/licenses/by/4.0/
+<http://creativecommons.org/licenses/by/4.0/>
